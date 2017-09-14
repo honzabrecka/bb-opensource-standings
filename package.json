@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "composable-fetch": "^3.0.0",
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {
+    "@cljs-oss/module-deps": "^1.1.1"
+  }
+}

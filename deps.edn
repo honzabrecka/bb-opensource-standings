@@ -1,0 +1,3 @@
+{:install-deps false
+ :npm-deps     {:isomorphic-fetch "x"
+                :composable-fetch "x"}}
